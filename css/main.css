@@ -636,7 +636,7 @@ iframe {
   background-position: center;
   position: relative;
   z-index: 1;
-  padding: 30px 15px 0px 15px;
+  padding: 15px 15px 0px 15px;
 }
 
 .contact100-more::before {
@@ -664,7 +664,7 @@ iframe {
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
-  padding: 56px 55px 63px 55px;
+  padding: 15px 55px 15px 55px;
 }
 
 .contact100-form-title {
@@ -675,7 +675,7 @@ iframe {
   color: #333333;
   line-height: 1.2;
   text-align: center;
-  padding-bottom: 33px;
+  padding-bottom: 15px;
 }
 
 
@@ -691,7 +691,7 @@ iframe {
 
 .rs1-wrap-input100,
 .rs2-wrap-input100 {
-  width: 50%;
+  width: 100%;
 }
 
 .rs2-wrap-input100 {
@@ -738,7 +738,7 @@ input.input100 {
 
 
 textarea.input100 {
-  min-height: 139px;
+  /* min-height: 139px; */
   padding-top: 19px;
   padding-bottom: 15px;
 }
