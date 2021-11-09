@@ -501,7 +501,7 @@ p {
 }
 
 ul, li {
-	margin: 0px;
+	margin-right: 10px;
 	list-style-type: none;
 }
 
